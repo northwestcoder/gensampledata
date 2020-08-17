@@ -1,0 +1,7 @@
+"master_id","customer_id","name_prefix","name_first","name_last","gender","email","account_status","addr_ln_1_txt","city","state","postal_code","birth_dt","employment","job_title","phone","dtUpdateDate"
+"99999999998","willchange","Mrs.","Rebecca","Scully","F","rscully993@amperity.com","Active","1000 1st Ave South","Seattle","WA","98134","11/30/1985","Amperity Standard Life Insurance","Social Researcher","1-320-961-6311","willchange"
+"99999999998","willchange","Mrs.","R","Scully","F","rscully993@gmail.com","Closed","4401 Fremont Ave North","Seattle","WASHINGTON","98114","01/01/1985","Amperity","Social Researcher","1-320-961-6311 x55650","willchange"
+"99999999998","willchange","Ms.","Becka","Scullz","M","rscully@@amperity.com","Active","4401 Fremont Ave North","Seattle","WA","98134","01/01/1900","Amperity SLI Inc","Social Res Maven","741-382-6970","willchange"
+"99999999998","willchange","Miss","Becca","Scullie","F","rscuully@amperity.org","Deleted","441 West Fremont Ave North","Seattle","WA","98134","01/01/1970","Amperity SLI Inc","Social Res Maven","741-382-6970","willchange"
+"99999999998","willchange","President","Bec","Scully","F","robscully@aol.com","Deleted","1600 Pennsylvania Avenue","Washington","DC","20500","01/01/1971","Tableau Inc","POTUS","741-382-6970","willchange"
+"99999999998","willchange","Agent","Dana","Scully","F","rscully@fbi.gov","Deleted","1600 Pennsylvania Avenue","Washington","DC","20500","01/01/1971","Tableau Inc","POTUS","741-382-6970","willchange"
