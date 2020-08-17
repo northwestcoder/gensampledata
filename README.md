@@ -114,7 +114,7 @@ _in production, when this python client is scheduled to run on a daily basis, th
 
 ARCHIVAL_COUNT
 
-_with the above, this is the number of loops to retrieve archived customers. I.E. higher value creates a higher cluster count for these amperity_id's_
+_with the above, this is the number of loops to retrieve archived customers. I.E. higher value creates a higher cluster count for these id's_
 
 
 ---

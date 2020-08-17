@@ -41,8 +41,8 @@ USE_TODAY_DATE = True
 # This app uses S3 if available. Enter your bucket name 
 # and prefix (path) below - if null then we skip this part
 SEND_TO_S3 = False
-AMP_S3_BUCKETNAME = 'amperity-customer-85ofzb'
-AMP_S3_PREFIX = 'acme2/ingest/'  # do not use a leading slash and DO use a trailing slash
+AMP_S3_BUCKETNAME = 'YOUR BUCKET'
+AMP_S3_PREFIX = 'acme/ingest/'  # do not use a leading slash and DO use a trailing slash
 
 # for testing, you can set to false for any of the data we normally create.
 # if everything below is False, we would create a single customer file 
