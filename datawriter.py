@@ -74,7 +74,7 @@ nextClickstreamID		= gen_incrementor(getLastClickstreamID())
 totalRowsCreated = gen_incrementor(0)
 
 def CustomerIDWriter():
-	print(nextCustomerID.current())
+	#print(nextCustomerID.current())
 	ID_customerWriter = open(s.counterdir + "/ID_customer", "w+")
 	ID_customerWriter.write(str(nextCustomerID.current()))
 	ID_customerWriter.close()
